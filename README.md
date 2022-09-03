@@ -80,3 +80,4 @@ https://switch.homebrew.guide/emummc/emummc.html
 * 在电脑上下载[ns-usbloader](https://github.com/developersu/ns-usbloader)，拖入游戏，点击上传
 * Awoo里选择游戏，安装即可
 
+# 视频 👉 油管：https://www.youtube.com/watch?v=_W4kq7_BLHY
